@@ -1,5 +1,6 @@
 ![logo](https://user-images.githubusercontent.com/101254285/175784839-a7c21ab2-efec-4a24-b369-05523f7c81fb.png)
 
+ 
 ## Hi there! My name is Maiara.
 
 <p>I am starting a career migration to Front-End development after 10 years of experience working with instructional design.</p>
@@ -17,7 +18,7 @@
 
 <div>
   <h2>I am learning</h2>
-  <img height="65px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> <img height="65px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /> <img height="65px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" /> <img height="65px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /> 
+  <img height="65px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> <img height="65px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /> <img height="65px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" /> <img height="65px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />  <img height="65px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /> 
 </div>
 <br>
 
