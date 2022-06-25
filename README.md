@@ -1,7 +1,8 @@
 ![logo](https://user-images.githubusercontent.com/101254285/175784839-a7c21ab2-efec-4a24-b369-05523f7c81fb.png)
 
+
  
-## Hi there! My name is Maiara.
+<h1> Hi there! My name is <span style="color: #F74868;">Maiara</span>. </h1>
 
 <p>I am starting a career migration to Front-End development after 10 years of experience working with instructional design.</p>
 
@@ -9,7 +10,7 @@
 
 <p>Now, I am dedicated to learn and developer the essential hard skills to work in Front-End development. In order to achieve that objective, I am working in personal projects and challenges that I find on the internet. In addition, I am working to improve my english (intermediate) and french (beginer) skills.</p>
 
-<p>When I am not studying or working, I spend my time playing video and board games with my friends, watching movies and series or reading a book. </p>
+<p>When I'm not studying or working, I spend time playing videogame and board games with friends, watching movies and TV series or reading a book.</p>
 
 <p>A curiosity about me is that wherever you see me, I will probably be with a cup of coffee in my hand. ☕</p>
 <br>
@@ -18,13 +19,13 @@
 
 <div>
   <h2>I am learning</h2>
-  <img height="65px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> <img height="65px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /> <img height="65px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" /> <img height="65px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />  <img height="65px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /> 
+  <img height="65px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" /> <img height="65px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3" /> <img height="65px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" alt="javascript"/> <img height="65px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript"/>  <img height="65px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react"/> 
 </div>
 <br>
 
 <div>
   <h2> I am also learning</h2>
-  <img  height="65px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" /> <img height="65px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> <img height="65px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+  <img  height="65px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma"/> <img height="65px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python"/> <img height="65px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql"/>
 </div>
 <br><br>
 
