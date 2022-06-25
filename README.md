@@ -8,7 +8,7 @@
 
 <p>In my previous career I had the opportunity to improve my soft skills, such as proactivity, communication,  teamwork and leadership. </p>
 
-<p>Now, I am dedicated to learn and developer the essential hard skills to work in Front-End development. In order to achieve that objective, I am working in personal projects and challenges that I find on the internet. In addition, I am working to improve my english (intermediate) and french (beginer) skills.</p>
+<p>Now, I am dedicated to learn and developer the essential hard skills to work in Front-End development. In order to achieve that goal, I am working in personal projects and challenges that I find on the internet. In addition, I am working to improve my english (intermediate) and french (beginer) skills.</p>
 
 <p>When I'm not studying or working, I spend time playing videogame and board games with friends, watching movies and TV series or reading a book.</p>
 
