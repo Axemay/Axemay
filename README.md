@@ -30,7 +30,7 @@
 <br><br>
 
 <div>
- <h2> Github stats</h2>
+ <h2> GitHub stats</h2>
   <a href="https://github.com/axemay">
   <img width="500em" height="170em" src="https://github-readme-stats.vercel.app/api?username=axemay&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> <img width="500em" height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=axemay&layout=compact&langs_count=16&theme=dracula&count_private=true"/>
 </div>
