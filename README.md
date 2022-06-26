@@ -15,6 +15,11 @@
 <p>A curiosity about me is that wherever you see me, I will probably be with a cup of coffee in my hand. ☕</p>
 <br>
 
+<p>Last Projects:</p>
+<ul>
+ <li><a href="https://github.com/Axemay/7DaysOfCode-HTML/">7DaysOfCode - HTML</a></li>
+ <li><a href="https://github.com/Axemay/Catway">Catway</a></li>
+</ul>
 
 
 <div>
