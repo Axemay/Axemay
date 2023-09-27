@@ -17,10 +17,10 @@
 
 <p>Last Projects:</p>
 <ul>
-<li><a href="https://github.com/Axemay/Central_de_Ferramentaria">Central de Ferramentaria</a></li>
- <li><a href="https://github.com/Axemay/Jogo-adivinhacao">Jogo de adivinhação</a></li>
- <li><a href="https://github.com/Axemay/7DaysOfCode-HTML/">7DaysOfCode - HTML</a></li>
- <li><a href="https://github.com/Axemay/Catway">Catway</a></li>
+<li><a href="https://github.com/Axemay/Central_de_Ferramentaria">Central de Ferramentaria</a> <img height="15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python"/></li>
+ <li><a href="https://github.com/Axemay/Jogo-adivinhacao">Jogo de adivinhação</a> <img height="15px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" /> <img height="15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3" /> <img height="15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" alt="javascript"/> </li>
+ <li><a href="https://github.com/Axemay/7DaysOfCode-HTML/">7DaysOfCode</a> <img height="15px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" /></li>
+ <li><a href="https://github.com/Axemay/Catway">Catway</a> <img height="15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" alt="javascript"/> </li>
 </ul>
 
 
