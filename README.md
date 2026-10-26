@@ -24,30 +24,15 @@
 <p>A curiosity about me is that wherever you see me, I will probably be with a cup of coffee in my hand. ☕</p>
 <br>
 
-<p>Last Projects:</p>
-<ul>
-<li><a href="https://github.com/Axemay/Central_de_Ferramentaria">Central de Ferramentaria</a> <img height="15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python"/></li>
- <li><a href="https://github.com/Axemay/Jogo-adivinhacao">Jogo de adivinhação</a> <img height="15px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" /> <img height="15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3" /> <img height="15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" alt="javascript"/> </li>
- <li><a href="https://github.com/Axemay/7DaysOfCode-HTML/">7DaysOfCode</a> <img height="15px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" /></li>
- <li><a href="https://github.com/Axemay/Catway">Catway</a> <img height="15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" alt="javascript"/> </li>
-</ul>
 
 
 <div>
-  <h2>I am learning</h2>
+  <h2>My Tech Stack</h2>
   <img height="65px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" /> <img height="65px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3" /> <img height="65px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" alt="javascript"/> 
             <img height="65px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
           
 <img height="65px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java"/>
 
-          
-
- 
-</div>
-<br>
-
-<div>
-  <h2> I am also learning</h2>
   <img  height="65px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma"/> <img height="65px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python"/> <img height="65px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql"/>
 </div>
 <br><br>
