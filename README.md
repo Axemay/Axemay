@@ -4,11 +4,20 @@
  
 <h1> Hi there! My name is <span style="color: #F74868;">Maiara</span>. </h1>
 
-<p>I am starting a career migration to Front-End development after 10 years of experience working with instructional design.</p>
+<p>I'm a professional passionate about education, technology, and creating meaningful digital experiences.</p>
+<br>
 
-<p>In my previous career I had the opportunity to improve my soft skills, such as proactivity, communication,  teamwork and leadership. </p>
+<p>With over 10 years of experience in Instructional Design and Education, I've developed a strong foundation in learning experience design, problem-solving, communication, collaboration, and leadership.</p>
+<br>
 
-<p>Now, I am dedicated to learn and developer the essential hard skills to work in Front-End development. In order to achieve that goal, I am working in personal projects and challenges that I find on the internet. In addition, I am working to improve my english (intermediate) and french (beginer) skills.</p>
+<p>Alongside my work in education, I've been expanding my skills in Front-End Development, exploring how technology and design can come together to create engaging, accessible, and interactive learning experiences.</p>
+<br>
+
+<p>I enjoy turning ideas into real projects, combining my background in education with HTML, CSS, JavaScript, and new technologies to build creative digital solutions.</p>
+<br>
+
+<p>I'm constantly learning, experimenting with personal projects, and exploring new possibilities, especially at the intersection of learning, design, and technology.</p>
+<br>
 
 <p>When I'm not studying or working, I spend time playing videogame and board games with friends, watching movies and TV series or reading a book.</p>
 
